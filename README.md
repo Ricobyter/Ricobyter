@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Js**
 
-- 📫 How to reach me **dhruvanandsingh2003@gmail.com**
+- 📫 Reach me at :  **dhruvanandsingh2003@gmail.com**
 
 - ⚡ Fun fact **The young me would be very happy to see someone watching my profile.**
 
