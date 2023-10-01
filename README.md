@@ -26,4 +26,4 @@
 
 <p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ricobyter&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="ricobyter" /></p>
 
-<p align = "center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ricobyter&theme=tokyonight&hide_border=true" alt="ricobyter" /></p>
+<p align = "center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ricobyter&theme=tokyonight&hide_border=true" alt="ricobyter" /></p>
