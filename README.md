@@ -1,13 +1,13 @@
 ![logo](https://github.com/Ricobyter/Ricobyter/blob/main/githubbanner.png)
 <h1 align="center">Hi 👋, I'm Dhruv Anand Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate FullStack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemllb3puYXY1aGg1OTEydHBxajAzODBzbHJkcnh3YWhhbTNqdTh4NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/200w.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ricobyter&label=Profile%20views&color=0e75b6&style=flat" alt="ricobyter" /> </p>
 
 - 🏫I’m currently a `Sophomore` at [IIITDM JABALPUR](https://iiitdmj.ac.in/)
 
-- 🌱 I’m currently learning `Backend Technologies`
+- 🌱 I’m currently learning `NextJs`
 
 - 📫 Reach me at :  **dhruvanandsingh2003@gmail.com**
 
