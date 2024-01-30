@@ -30,7 +30,8 @@
 <br>
 <p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ricobyter&theme=tokyonight&hide_border=true" alt="ricobyter" /></p>
 <br>
-
+<p align = "center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ricobyter&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="167" alt="languages graph"  /></p>
+<br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ricobyter&theme=tokyonight&hide_border=true" alt="ricobyter" /></a> </p>
 
 
