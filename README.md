@@ -36,7 +36,7 @@
 
 
 ## GitHub Stats:
-<div align="center"> <img src="https://github-readme-stats.vercel.app/apiusername=Ricobyter&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1&card_width=500" height="150" alt="stats graph" /> <br>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ricobyter&show_icons=true&theme=react&hide_border=true&border_radius=5&card_width=500" height="150" alt="stats graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=Ricobyter&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&card_width=500&order=3" height="150" alt="streak graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ricobyter&locale=en&hide_title=false&layout=compact&card_width=420&langs_count=5&theme=react&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
