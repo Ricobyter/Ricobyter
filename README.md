@@ -36,9 +36,10 @@
 
 
 ## GitHub Stats:
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ricobyter&show_icons=true&theme=react&hide_border=true&border_radius=5&card_width=500" height="150" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=Ricobyter&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&card_width=500&order=3" height="150" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ricobyter&locale=en&hide_title=false&layout=compact&card_width=420&langs_count=5&theme=react&hide_border=true&order=2" height="150" alt="languages graph"  />
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ricobyter&show_icons=true&theme=tokyonight&hide_border=true&border_radius=5&card_width=500" height="150" alt="stats graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=Ricobyter&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&card_width=500&order=3" height="150" alt="streak graph" /> <br>
+   <img src="https://github-profile-trophy.vercel.app/?username=Ricobyter&column=3&row=2&mode=daily&layout=compact&theme=tokyonight&hide_border=true&border_radius=5&card_width=700&order=3&hide_border=true" height="250" alt="streak graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ricobyter&locale=en&hide_title=false&layout=compact&card_width=420&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 
