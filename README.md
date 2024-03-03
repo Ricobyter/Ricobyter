@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning `NextJs`
 
-- 📫 Reach me at :  **dhruvanandsingh2004@gmail.com**
+- 📫 **Reach me at** :  **dhruvanandsingh2004@gmail.com**
 
 - ⚡ **Fun fact** : The young me would be very happy to see someone browsing through my profile.
 
