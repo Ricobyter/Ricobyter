@@ -1,4 +1,4 @@
-![logo](https://github.com/Ricobyter/Ricobyter/blob/main/githubbanner.png)
+![logo](https://github.com/Ricobyter/Ricobyter/blob/main/ghBanner.png)
 <h1 align="center">Hi 👋, I'm Dhruv Anand Singh</h1>
 <h3 align="center">A passionate MERN Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemllb3puYXY1aGg1OTEydHBxajAzODBzbHJkcnh3YWhhbTNqdTh4NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/200w.gif">
