@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ricobyter&label=Profile%20views&color=0e75b6&style=flat" alt="ricobyter" /> </p>
 
-- 🏫I’m currently a `Pre-Final Year` at [IIITDM JABALPUR](https://iiitdmj.ac.in/)
+- 🏫I’m currently a `Final Year` at [IIITDM JABALPUR](https://iiitdmj.ac.in/)
 
 - 🌱 I’m currently learning `NextJs`
 
