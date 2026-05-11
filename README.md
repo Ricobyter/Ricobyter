@@ -59,37 +59,94 @@ const dhruv = {
 
 <div align="center">
 
-### 🌐 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css&theme=dark" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=tailwind,shadcn&theme=dark" />
-  <!-- shadcn/ui badge since skillicons may not have it -->
-  &nbsp;<img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white"/>
-</p>
-
-### ⚙️ Backend & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase&theme=dark" />
-</p>
-
-### 🐳 DevOps & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,python&theme=dark" />
-</p>
-
----
-
-### 📊 Skill Proficiency
-
-| Category | Skills | Level |
-|----------|--------|-------|
-| 🌐 **Frontend** | React, Next.js, TypeScript, Tailwind CSS, shadcn/ui | ████████░░ 80% |
-| ⚙️ **Backend** | Node.js, Express.js, REST APIs | ███████░░░ 70% |
-| 🗄️ **Databases** | MongoDB, MySQL, PostgreSQL, Firebase | ███████░░░ 70% |
-| 🐳 **DevOps** | Docker, Git, GitHub | ██████░░░░ 60% |
-| 🐍 **Languages** | JavaScript, TypeScript, Python | ████████░░ 80% |
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=react&theme=dark" width="48"/><br/>
+      <sub><b>React</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="48"/><br/>
+      <sub><b>Next.js</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48"/><br/>
+      <sub><b>TypeScript</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=js&theme=dark" width="48"/><br/>
+      <sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=html&theme=dark" width="48"/><br/>
+      <sub><b>HTML5</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=css&theme=dark" width="48"/><br/>
+      <sub><b>CSS3</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48"/><br/>
+      <sub><b>Tailwind</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://img.shields.io/badge/shadcn-000?style=for-the-badge&logo=shadcnui&logoColor=white" height="48"/><br/>
+      <sub><b>shadcn/ui</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48"/><br/>
+      <sub><b>Node.js</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=express&theme=dark" width="48"/><br/>
+      <sub><b>Express</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48"/><br/>
+      <sub><b>MongoDB</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48"/><br/>
+      <sub><b>MySQL</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48"/><br/>
+      <sub><b>PostgreSQL</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="48"/><br/>
+      <sub><b>Firebase</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48"/><br/>
+      <sub><b>Docker</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=python&theme=dark" width="48"/><br/>
+      <sub><b>Python</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=git&theme=dark" width="48"/><br/>
+      <sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48"/><br/>
+      <sub><b>GitHub</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48"/><br/>
+      <sub><b>VS Code</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="48"/><br/>
+      <sub><b>Postman</b></sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -99,15 +156,13 @@ const dhruv = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ricobyter&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&card_width=500&include_all_commits=true&count_private=true" height="160" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ricobyter&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ricobyter&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&border_radius=10" height="180" alt="Top Languages"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Ricobyter&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=10&card_width=500" height="160" alt="GitHub Streak"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ricobyter&locale=en&hide_title=false&layout=compact&card_width=420&langs_count=6&theme=tokyonight&hide_border=true&border_radius=10" height="160" alt="Top Languages"/>
+<img src="https://nirzak-streak-stats.vercel.app?user=Ricobyter&theme=tokyonight&hide_border=true&border_radius=10" height="180" alt="GitHub Streak"/>
 
 </div>
 
