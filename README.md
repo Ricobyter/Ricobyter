@@ -156,9 +156,9 @@ const dhruv = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ricobyter&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ricobyter&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&cache_seconds=86400" height="180" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ricobyter&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&border_radius=10" height="180" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ricobyter&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=86400" height="180" alt="Top Languages"/>
 
 <br/><br/>
 
@@ -172,7 +172,7 @@ const dhruv = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ricobyter&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Ricobyter&theme=tokyonight&no-frame=true&column=6&row=1&margin-w=10&margin-h=15" alt="GitHub Trophies"/>
 
 </div>
 
