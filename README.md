@@ -37,15 +37,15 @@ const dhruv = {
   name: "Dhruv Anand Singh",
   college: "IIITDM Jabalpur 🏫",
   year: "Final Year",
-  role: "MERN Stack Developer",
-  currentlyLearning: ["Next.js", "TypeScript"],
+  role: "Full Stack Developer",
+  currentlyLearning: ["Go", "Django"],
   hobbies: ["Coding", "Open Source", "Problem Solving"],
   funFact: "The young me would be very happy 😊"
 };
 ```
 
 - 🏫 Final Year student at **[IIITDM Jabalpur](https://iiitdmj.ac.in/)**
-- 🌱 Currently leveling up with **Next.js**
+- 🌱 Currently leveling up with **Go**
 - 💡 Love building full-stack apps with the MERN stack
 - 🤝 Open to collaborating on **interesting open-source projects**
 - 📫 Reach me at **dhruvanandsingh2004@gmail.com**
