@@ -1,202 +1,205 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Dhruv%20Anand%20Singh&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=MERN%20Developer%20%7C%20Final%20Year%20@%20IIITDM%20Jabalpur&descAlignY=55&descSize=18&descColor=8b949e"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Dhruv%20Anand%20Singh&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=55&descSize=18&descColor=8b949e"/>
 
-<!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Dhruv+%F0%9F%91%8B;Passionate+MERN+Stack+Developer;Building+cool+stuff+with+React+%26+Node;Currently+learning+Next.js+%E2%9A%A1;Open+to+exciting+opportunities!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Building+scalable+web+applications;React+%7C+Node.js+%7C+PostgreSQL;Exploring+Next.js+%26+TypeScript;Open+to+exciting+opportunities!" alt="Typing SVG" />
 </a>
 
-<!-- Profile Views & Social Badges -->
 <br/>
-<img src="https://komarev.com/ghpvc/?username=ricobyter&label=Profile%20Views&color=58a6ff&style=for-the-badge" alt="Profile views"/>
-&nbsp;
-<a href="https://linkedin.com/in/dhruvanandsingh">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:dhruvanandsingh2004@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-dhruvanandsingh2004-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://instagram.com/dhruvanand_027">
-  <img src="https://img.shields.io/badge/Instagram-dhruvanand__027-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
 
-</div>
+<img src="https://komarev.com/ghpvc/?username=ricobyter&label=Profile%20Views&color=58a6ff&style=for-the-badge" alt="Profile Views"/>
 
----
-
-## 🧑‍💻 About Me
-
-<img align="right" alt="Coding" width="380" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemllb3puYXY1aGg1OTEydHBxajAzODBzbHJkcnh3YWhhbTNqdTh4NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/200w.gif"/>
-
-```javascript
-const dhruv = {
-  name: "Dhruv Anand Singh",
-  college: "IIITDM Jabalpur 🏫",
-  year: "Final Year",
-  role: "Full Stack Developer",
-  currentlyLearning: ["Go", "Django"],
-  hobbies: ["Coding", "Open Source", "Problem Solving"],
-  funFact: "The young me would be very happy 😊"
-};
-```
-
-- 🏫 Final Year student at **[IIITDM Jabalpur](https://iiitdmj.ac.in/)**
-- 🌱 Currently leveling up with **Go**
-- 💡 Love building full-stack apps with the MERN stack
-- 🤝 Open to collaborating on **interesting open-source projects**
-- 📫 Reach me at **dhruvanandsingh2004@gmail.com**
-- ⚡ Fun fact: *The young me would be very happy to see someone browsing through my profile 😊*
-
-<br clear="right"/>
-
----
-
-## 🛠️ Tech Stack & Skills
-
+ 
 <div align="center">
 
 <table>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=react&theme=dark" width="48"/><br/>
-      <sub><b>React</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="48"/><br/>
-      <sub><b>Next.js</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48"/><br/>
-      <sub><b>TypeScript</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=js&theme=dark" width="48"/><br/>
-      <sub><b>JavaScript</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=html&theme=dark" width="48"/><br/>
-      <sub><b>HTML5</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=css&theme=dark" width="48"/><br/>
-      <sub><b>CSS3</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48"/><br/>
-      <sub><b>Tailwind</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://img.shields.io/badge/shadcn-000?style=for-the-badge&logo=shadcnui&logoColor=white" height="48"/><br/>
-      <sub><b>shadcn/ui</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48"/><br/>
-      <sub><b>Node.js</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=express&theme=dark" width="48"/><br/>
-      <sub><b>Express</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48"/><br/>
-      <sub><b>MongoDB</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48"/><br/>
-      <sub><b>MySQL</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48"/><br/>
-      <sub><b>PostgreSQL</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="48"/><br/>
-      <sub><b>Firebase</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48"/><br/>
-      <sub><b>Docker</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=python&theme=dark" width="48"/><br/>
-      <sub><b>Python</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=git&theme=dark" width="48"/><br/>
-      <sub><b>Git</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48"/><br/>
-      <sub><b>GitHub</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48"/><br/>
-      <sub><b>VS Code</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="48"/><br/>
-      <sub><b>Postman</b></sub>
-    </td>
-  </tr>
+<tr>
+
+<td>
+<a href="https://linkedin.com/in/dhruvanandsingh">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+</td>
+
+<td>
+<a href="mailto:dhruvanandsingh2004@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+</td>
+
+<td>
+<img src="https://komarev.com/ghpvc/?username=ricobyter&label=Profile%20Views&color=58a6ff&style=for-the-badge" alt="Profile Views"/>
+</td>
+
+<td>
+<a href="https://instagram.com/dhruvanand_027">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+</td>
+
+</tr>
 </table>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 👋 About Me
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+### Hi, I'm Dhruv! 👋
+
+I'm a **Full Stack Developer** and a graduate of **IIITDM Jabalpur**, passionate about building **scalable, production-ready web applications**.
+
+I enjoy working across the stack — from crafting responsive interfaces to designing APIs, databases, authentication systems, and deployment workflows.
+
+### 💻 What I Do
+
+* 🚀 Build **full-stack web applications**
+* ⚛️ Develop modern UIs with **React & Next.js**
+* 🔧 Build backend services with **Node.js & Express**
+* 🗄️ Design and work with **PostgreSQL & MongoDB**
+* 🔐 Implement **authentication & authorization**
+* 🐳 Containerize and deploy applications with **Docker**
+* 🧩 Build APIs and integrate third-party services
+
+### 🌱 Currently Exploring
+
+**Next.js · TypeScript · System Design · Cloud Deployment**
+
+</td>
+
+<td width="40%" align="center" valign="middle">
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemllb3puYXY1aGg1OTEydHBxajAzODBzbHJkcnh3YWhhbTNqdTh4NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/200w.gif" width="100%" alt="Coding"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ricobyter&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&cache_seconds=86400" height="180" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ricobyter&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=86400" height="180" alt="Top Languages"/>
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind&theme=dark" alt="Frontend Technologies"/>
 
 <br/><br/>
 
-<img src="https://nirzak-streak-stats.vercel.app?user=Ricobyter&theme=tokyonight&hide_border=true&border_radius=10" height="180" alt="GitHub Streak"/>
+### Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,firebase&theme=dark" alt="Backend and Database Technologies"/>
+
+<br/><br/>
+
+### Tools & DevOps
+
+<img src="https://skillicons.dev/icons?i=python,docker,git,github,vscode,postman&theme=dark" alt="Tools and DevOps"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🧠 What I Work With
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Ricobyter&theme=tokyonight&no-frame=true&column=6&row=1&margin-w=10&margin-h=15" alt="GitHub Trophies"/>
+| Area               | Technologies                                         |
+| ------------------ | ---------------------------------------------------- |
+| **Frontend**       | React, Next.js, JavaScript, TypeScript, Tailwind CSS |
+| **Backend**        | Node.js, Express.js, REST APIs                       |
+| **Databases**      | PostgreSQL, MongoDB, MySQL                           |
+| **Authentication** | JWT, OAuth, Firebase                                 |
+| **DevOps**         | Docker, Git, GitHub                                  |
+| **Tools**          | VS Code, Postman                                     |
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 🌱 Currently Learning
+
+```text
+Next.js
+TypeScript
+Advanced PostgreSQL
+System Design
+Docker & Cloud Deployment
+Scalable Backend Architecture
+```
+
+---
+
+## 📊 GitHub Overview
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ricobyter&bg_color=1a1b27&color=628fdb&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ricobyter&theme=tokyonight" width="100%" alt="GitHub Stats"/>
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ricobyter&theme=tokyonight" width="100%" alt="GitHub Profile Details"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ricobyter&theme=tokyonight&exclude=html,circom" width="100%" alt="Most Used Languages"/>
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ricobyter&theme=tokyonight&utcOffset=5.5" width="100%" alt="Productive Time"/>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🤝 Let's Connect
+
+I'm always interested in discussing:
+
+* 💻 Full Stack Development
+* 🚀 Interesting product ideas
+* 🌐 Open-source projects
+* 🤖 AI-powered applications
+* ☁️ Backend & cloud technologies
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ricobyter/Ricobyter/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ricobyter/Ricobyter/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Ricobyter/Ricobyter/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
+<a href="https://linkedin.com/in/dhruvanandsingh">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+ 
+
+<a href="mailto:dhruvanandsingh2004@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 </div>
 
@@ -204,18 +207,12 @@ const dhruv = {
 
 <div align="center">
 
-### 💬 Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-<div align="center">
-
-<!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer"/>
 
-*⭐ Star my repos if you find them useful!*
+### 💙 Thanks for visiting!
+
+*Building things, learning continuously, and enjoying the process.*
+
+⭐ **If you find any of my projects useful, consider giving them a star!**
 
 </div>
