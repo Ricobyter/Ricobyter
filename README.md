@@ -61,11 +61,10 @@ I enjoy working across the stack — from crafting responsive interfaces to desi
 
 * 🚀 Build **full-stack web applications**
 * ⚛️ Develop modern UIs with **React & Next.js**
-* 🔧 Build backend services with **Node.js & Express**
+* 🔧 Build backend services with **Node.js, Express & Django**
 * 🗄️ Design and work with **PostgreSQL & MongoDB**
 * 🔐 Implement **authentication & authorization**
 * 🐳 Containerize and deploy applications with **Docker**
-* 🧩 Build APIs and integrate third-party services
 
 ### 🌱 Currently Exploring
 
@@ -81,32 +80,52 @@ I enjoy working across the stack — from crafting responsive interfaces to desi
 </tr>
 </table>
 
----
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
+<table width="100%" style="border: none;">
+<tr>
+<td align="center" width="50%" style="border: none;">
+
 ### Frontend
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind&theme=dark" alt="Frontend Technologies"/>
 
-<br/><br/>
+</td>
 
-### Backend & Databases
+<td align="center" width="50%" style="border: none;">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,firebase&theme=dark" alt="Backend and Database Technologies"/>
+### Backend
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Backend Technologies"/>
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%" style="border: none;">
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase&theme=dark" alt="Database Technologies"/>
+
+</td>
+
+<td align="center" width="50%" style="border: none;">
 
 ### Tools & DevOps
 
 <img src="https://skillicons.dev/icons?i=python,docker,git,github,vscode,postman&theme=dark" alt="Tools and DevOps"/>
 
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
-
 ## 🧠 What I Work With
 
 <div align="center">
